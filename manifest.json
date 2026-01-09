@@ -1,0 +1,10 @@
+{
+    "name": "JacketPassiveEnhancement",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/seu-usuario",
+    "description": "Adds a custom passive item to Jacket from Hotline Miami",
+    "dependencies": [
+        "BepInEx-BepInExPack_EtG-5.4.2101",
+        "JacketMod-1.1.0"
+    ]
+}
