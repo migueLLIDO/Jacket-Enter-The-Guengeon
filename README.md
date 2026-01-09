@@ -11,7 +11,7 @@ inicia um contador todas vez que entra em uma sala, quanto mais rapido você lim
 - **Linguagem:** C#
 - **API:** BepInEx + Mod the Gungeon API + Alexandria + Jacket_CC
 
-## 📦 Installation:
+## 📦 Instalação:
 A instalaçãi é simples, apenas abra a Thunderstore (ou r2modman) e pesquise por "Jacket Passive"
 
 
